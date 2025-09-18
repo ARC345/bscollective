@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/weka.md"
+      "destination": "/_data/tools/weka.md"
     }
   ]
 }
