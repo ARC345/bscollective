@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>[Your Name] - Portfolio</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown-dark.css">
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      padding: 2rem;
+      background: #0d1117;
+    }
+    .markdown-body {
+      max-width: 800px;
+    }
+  </style>
+</head>
+<body>
+  <article id="content" class="markdown-body"></article>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    fetch("index.md")
+      .then(res => res.text())
+      .then(text => {
+        document.getElementById("content").innerHTML = marked.parse(text);
+      });
+  </script>
+</body>
+</html>
