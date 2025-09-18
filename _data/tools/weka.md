@@ -25,4 +25,4 @@ It provides ready-made implementations of algorithms like Decision Trees, Naive 
   ```bash
   java -jar weka.jar
 
-[[CONTRIBUTING.md]]
+- [testing link](/CONTRIBUTING.md)
