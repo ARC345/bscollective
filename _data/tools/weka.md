@@ -24,3 +24,5 @@ It provides ready-made implementations of algorithms like Decision Trees, Naive 
 - Run via double-clicking the `.jar` file or using:
   ```bash
   java -jar weka.jar
+
+[[CONTRIBUTING.md]]
