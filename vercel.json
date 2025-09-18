@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/_data/tools/weka.md"
-    }
-  ]
-}
