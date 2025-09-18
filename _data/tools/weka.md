@@ -26,3 +26,4 @@ It provides ready-made implementations of algorithms like Decision Trees, Naive 
   java -jar weka.jar
 
 - [testing link](/CONTRIBUTING.md)
+![is this really visible](/testing.png)
