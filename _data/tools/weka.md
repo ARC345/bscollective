@@ -7,7 +7,6 @@ official_url: https://www.cs.waikato.ac.nz/ml/weka/
 colleges_and_semesters: [IITJ_01] 
 courses: [Pattern Recognition]
 ---
-
 # Weka
 
 ## 📌 Overview
