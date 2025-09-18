@@ -1,12 +1,6 @@
----
-name: Weka
-category: Machine Learning
-type: GUI Application
-platforms: [Windows, Mac, Linux]
-official_url: https://www.cs.waikato.ac.nz/ml/weka/
-colleges_and_semesters: [IITJ_01] 
-courses: [Pattern Recognition]
----
+| name | category        | type           | platforms           | official_url                              | colleges_and_semesters |
+|------|-----------------|----------------|---------------------|-------------------------------------------|------------------------|
+| Weka | Machine Learning| GUI Application| Windows, Mac, Linux | https://www.cs.waikato.ac.nz/ml/weka/     | IITJ_01                |
 
 # Weka
 
