@@ -25,7 +25,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"] #
       post = "" # you can add extra information after the name (HTML format is supported), such as icons
       name = "About"
       url = "/"
-      title = ""  # title will be shown when you hover on this menu link
+      title = "" # title will be shown when you hover on this menu link
 
   [[menu.main]]
     weight = 1
@@ -34,7 +34,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"] #
     post = "" # you can add extra information after the name (HTML format is supported), such as icons
     name = "Tools"
     url = "/tools/"
-    title = ""  # title will be shown when you hover on this menu link
+    title = "" # title will be shown when you hover on this menu link
 
   [[menu.main]]
     weight = 2
@@ -75,10 +75,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"] #
     email = ""
     link = ""
 
-
-
   # Header config
-
   [params.header]
     desktopMode = "fixed" # desktop header mode ["fixed", "normal", "auto"]
     mobileMode = "auto" # mobile header mode ["fixed", "normal", "auto"]
@@ -478,7 +475,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"] #
       id = ""
 
   #  Cookie consent config
-
   [params.cookieconsent]
     enable = true
 
@@ -496,8 +492,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"] #
     # you can store your own data files in the same path under your project:
     # "assets/data/cdn/"
     data = ""
-
-
 
   #  Compatibility config
   [params.compatibility]
@@ -536,15 +530,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"] #
     startLevel = 2
     endLevel = 6
 
-
-
 # Sitemap config
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
-
-
 
 # Permalinks config
 [Permalinks]
@@ -553,7 +543,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"] #
 # Privacy config
 [privacy]
   
-  #  privacy of the Google Analytics (can also be configured in params.analytics.google)
+  # privacy of the Google Analytics (can also be configured in params.analytics.google)
   [privacy.googleAnalytics]
     # ...
   [privacy.twitter]
