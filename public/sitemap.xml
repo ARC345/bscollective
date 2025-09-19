@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-09-18T17:28:18&#43;05:30</lastmod></url><url>
-            <loc>http://localhost:1313/tools/</loc><lastmod>2025-09-18T17:28:18&#43;05:30</lastmod></url><url>
-            <loc>http://localhost:1313/tools/weka/</loc><lastmod>2025-09-18T17:28:18&#43;05:30</lastmod></url><url>
-            <loc>http://localhost:1313/categories/</loc></url><url>
-            <loc>http://localhost:1313/tags/</loc></url></urlset>
+            <loc>http://localhost:1313/tools/</loc><lastmod>2025-09-19T15:39:58&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2025-09-18T17:34:29&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/weka/</loc><lastmod>2025-09-18T17:34:29&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/windows/</loc><lastmod>2025-09-18T17:34:29&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2025-09-18T17:34:29&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

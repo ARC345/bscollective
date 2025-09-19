@@ -9,7 +9,6 @@ Our goal is to provide resources, guides, and tools to help students navigate th
 
 ---
 ## Features
-
 - **Tool Library:** Browse curated AI tools.
 - **Tutorials:** Step-by-step guides.
 - **Community:** Connect with like-minded learners.
